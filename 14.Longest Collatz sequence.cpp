@@ -1,4 +1,4 @@
-//YOU CAN USE A ARRAY AR CONTAINER TO STORE THE CHAIN 
+//YOU CAN USE AN ARRAY TO STORE THE CHAIN 
 
 #include<bits/stdc++.h>
 #include<math.h>
